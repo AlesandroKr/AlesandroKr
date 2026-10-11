@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔭 **Actualmente trabajando en:** Poryectos con Java y backend con Spring Boot.
+- 🔭 **Actualmente trabajando en:** Proyectos con Java y backend con Spring Boot.
 - 🌱 **Aprendiendo y profundizando:** Arquitectura de software, patrones de diseño, optimización de bases de datos y DevOps básico (Docker/Linux).
 - 💬 **Pregúntame sobre:** Java, Spring Boot, Python y FastAPI.
 
@@ -45,5 +45,5 @@
 
 ### 📫 Get in touch
 
-- 📧 **LinkedIn:** [Tu Nombre / Perfil](https://www.linkedin.com/in/tu-perfil)
-- 🌐 **Portfolio / Web:** *(Opcional)*
+- 📧 **LinkedIn:** [Enrique Keller](www.linkedin.com/in/enriquekeller)
+- 🌐 **Portfolio / Web:** https://enriquekeller.vercel.app/
